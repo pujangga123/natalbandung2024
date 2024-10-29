@@ -10,7 +10,7 @@
     <meta property="og:title" content="Natal Bandung 2024 - Imanuel Dalam Sejarah - Pdt.Dr.Stephen Tong" />
     <meta property="og:url" content="https://natalbandung.org/2024/" />
     <meta property="og:description" content="Senin, 2 Des 2024 ⌚ pk 18.30 📍 Sudirman Grand Ballroom">
-    <meta property="og:image" content="https://natalbandung.com/2024/assets/images/natal2024-profile-500.jpg">
+    <meta property="og:image" content="https://natalbandung.org/2024/assets/images/natal2024-profile-500.jpg">
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="id_ID" />
 
@@ -18,7 +18,7 @@
     <meta name="twitter:title" content="Natal Bandung 2024 - Imanuel Dalam Sejarah - Pdt.Dr.Stephen Tong">
     <meta name="twitter:description" content="Senin, 2 Des 2024 ⌚ pk 18.30 📍 Sudirman Grand Ballroom">
     <meta name="twitter:title" content="Natal Bandung 2024 - Imanuel Dalam Sejarah - Pdt.Dr.Stephen Tong" />
-    <meta name="twitter:image" content="https://natalbandung.com/2024/assets/images/natal2024-profile-500.jpg">
+    <meta name="twitter:image" content="https://natalbandung.org/2024/assets/images/natal2024-profile-500.jpg">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
