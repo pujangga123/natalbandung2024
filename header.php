@@ -32,6 +32,6 @@
         body {
             background-color: #8a6652;
         }
-    <style>
+    </style>
 </head>
 <body>
