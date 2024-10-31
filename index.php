@@ -2,10 +2,11 @@
 
 <section id="hero" class="hero d-flex align-items-center">    
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500" style="text-align: left; padding: 5px 5px">
-      <h1>Pdt. Dr. Stephen Tong</h1>
       <p class="p1" >
-        adalah pengajar Alkitab dan penginjil yang berpengaruh. Melalui khotbah-khotbahnya yang mendalam, dan memperdalam pemahaman akan ajaran Kristus. Dia aktif mengadakan konferensi dan seminar untuk memperkuat iman jemaat. </p>
-      <P class="p2" >Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi warga yang peduli di masyarakat.
+        <strong>Pdt. Dr. Stephen Tong </strong>adalah pengajar Alkitab dan penginjil yang berpengaruh. Melalui khotbah-khotbahnya yang mendalam, dan memperdalam pemahaman akan ajaran Kristus. Dia aktif mengadakan konferensi dan seminar untuk memperkuat iman jemaat.
+      </p>
+      <P class="p2" >
+        Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi zrga yang peduli di masyarakat.
       </p> 
       <ul>
         <!-- <li><a href="https://www.youtube.com/watch?v=hwZKnCREW-Q" target="_blank" class="btn-get-started" style="background-color: #cc1616;">KLIP NATAL</a></li> -->
@@ -53,5 +54,65 @@
         </div>
     </div>
 </section>
+
+<!-- ======= lokasi Section ======= -->
+<section id="lokasi" class="lokasi">
+  <div class="container">
+
+    <div class="section-title">
+      <!-- <span>Lokasi</span> -->
+      <h2>Lokasi</h2>
+      <p class="text-center" style="font-size:18px">Jl. Jend. Sudirman No.620<br>
+        Kota Bandung, Jawa Barat 40183</p>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-7 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-right">
+            <!-- iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d965.0965347471596!2d107.57921535545967!3d-6.917629549053815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1699982155520!5m2!1sen!2sid"  frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe-->
+            <img src="assets/img/denah.jpg" style="width:90%;">
+            <!-- <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe> -->
+        </div>
+
+        <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+            <p>Tersedia <b>transportasi keberangkatan</b> bersama dari/ke Sudirman Grand Ballroom</p>
+            <div>TITIK JEMPUT:</div>
+            <ul>
+                <li><i class="bi bi-check-circle"></i> UPI</li>
+                <li><i class="bi bi-check-circle"></i> ITB - Baltos</li>
+                <li><i class="bi bi-check-circle"></i> ITHB Jl. Dipati Ukur</li>
+                <li><i class="bi bi-check-circle"></i> ITENAS Jl. Suci</li>
+                <li><i class="bi bi-check-circle"></i> Telkom University</li>
+            </ul>
+        </div>
+    </div>
+    
+  </div>
+</section><!-- End lokasi Section -->
+
+<!-- ======= Contact Section ======= -->
+<section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <span>Hubungi Kami</span>
+          <!-- <h2>Hubungi Kami</h2> -->
+          <br><br>
+          <p class="text-center">untuk informasi lain, pertanyaan atau keberangkatan bersama</p>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+
+          <div class="offset-lg-4 col-lg-4 col-md-6" onclick="window.open('https://wa.me/6285105071880')">
+            <div class="info-box mb-4 text-center">
+              <i class="bx bx-phone-call"></i>
+              <h3>Telp/WhatsApp</h3>
+              <p class="mx-auto" style="color:white">0851 0507 1880</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
 
 <?php include("footer.php"); ?>

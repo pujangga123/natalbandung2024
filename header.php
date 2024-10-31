@@ -38,23 +38,38 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
 </head>
 <body>
     <!-- ======= Header ======= -->
     <header id="header" class="d-flex align-items-center">
         <div class="container d-flex align-items-center justify-content-between">
 
-          <h1 class="logo"><a href="index.html">Natal Bandung 2024</a></h1>
+          <!-- h1 class="logo"><a href="index.html">Natal Bandung 2024</a></h1 -->
           <!-- Uncomment below if you prefer to use an image logo -->
           <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+          <a href="index.php">
+            <div class="logojudul">
+                <img src="assets/img/STEMI.png" style="width:50px; float:left; margin-right:10px">
+                <div style="display:inline; font-size:13px; color:white; line-height: normal;">
+                    <div><b>Natal Bandung 2024</b></div>
+                    <div><i>Imanuel dalam Sejarah</i></div>
+                    <div>Pdt. Dr. Stephen Tong</div>
+                </div>
+
+            </div>
+          </a>
 
           <nav id="navbar" class="navbar">
             <ul>
-              <li><a class="nav-link scrollto active" href=".#hero">Acara</a></li>
-              <li><a class="nav-link scrollto" href="profil.php">Profil</a></li>
+              <li><a class="nav-link scrollto" href=".#hero">Beranda</a></li>
+              <li><a class="nav-link scrollto" href=".#event">Acara</a></li>
+              <li><a class="nav-link scrollto" href="profil.php#profil">Profil</a></li>
               <li><a class="nav-link scrollto" href=".#mentor">Our Mentor</a></li>
-              <li><a class="nav-link scrollto" href=".#lokasi">Lokasi</a></li>          
-              <li><a class="nav-link scrollto" href=".#titikjemput">Titik Jemput</a></li>
+              <li><a class="nav-link scrollto" href=".#lokasi">Lokasi & Titik Jemput</a></li>          
               <li><a class="nav-link scrollto" href="#contact">Hubungi Kami</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
