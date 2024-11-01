@@ -26,7 +26,14 @@
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
         <p class="fst-italic">
-            <b>Kebaktian Natal 2024 bagi kota Bandung</b>, akan kembali dilayani oleh hamba-Nya, Pdt. Stephen Tong.
+            <b>Kebaktian Natal 2024 bagi kota Bandung</b>, akan kembali dilayani oleh hamba-Nya, Pdt. Stephen Tong.       
+        </p>
+        <p>
+          <strong style="font-size:20px"><i>Imanuel dalam Sejarah</i></strong><br>
+          <br>
+          📅 Senin, 2 Desember 2024. 🕡 pk. 18.30<br>
+          📌 Sudirman Grand Ballroom<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jl. Jend. Sudirman 620, Bandung
         </p>            
         <p> Acara ini gratis, terbuka untuk umum. Mari hadiri, ajak teman/saudara/kenalan untuk datang mendengar berita injil, berita natal.</p>        
         </div>
