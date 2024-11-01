@@ -30,7 +30,6 @@
             <b>Kebaktian Natal 2024 bagi kota Bandung</b>, akan kembali dilayani oleh hamba-Nya, Pdt. Stephen Tong.
         </p>            
         <p> Acara ini gratis, terbuka untuk umum. Mari hadiri, ajak teman/saudara/kenalan untuk datang mendengar berita injil, berita natal.</p>        
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1771148956962312&tabs=Discussion&width=400&height=300&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1727933754626942" width="400" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
     </div>
 
