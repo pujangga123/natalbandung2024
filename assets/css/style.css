@@ -474,6 +474,8 @@ h6 {
   transition: 0.5s;
   border: 2px solid #fff;
   color: #fff;
+  background-color: maroon;
+
 }
 
 #hero .btn-get-started:hover {
@@ -1522,4 +1524,24 @@ strong {
 
 p {
   text-align: justify;
+}
+
+.btn-link, .btn-link a {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  padding: 10px 28px;
+  transition: 0.5s;
+  border: 2px solid #fff;
+  color: #fff;
+  background-color: maroon;
+  text-decoration: none;
+}
+
+.btn-link:hover, .btn-link a:hover {
+  background-color: #cc1616;
+  color: #fff;
 }

@@ -6,11 +6,11 @@
         <strong>Pdt. Dr. Stephen Tong </strong>adalah pengajar Alkitab dan penginjil yang berpengaruh. Melalui khotbah-khotbahnya yang mendalam, dan memperdalam pemahaman akan ajaran Kristus. Dia aktif mengadakan konferensi dan seminar untuk memperkuat iman jemaat.
       </p>
       <P class="p2" >
-        Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi zrga yang peduli di masyarakat.
+        Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi warga yang peduli di masyarakat.
       </p> 
       <ul>
         <!-- <li><a href="https://www.youtube.com/watch?v=hwZKnCREW-Q" target="_blank" class="btn-get-started" style="background-color: #cc1616;">KLIP NATAL</a></li> -->
-        <li><a href="profil.php" class="btn-get-started scrollto">Profil</a></li>
+        <li><a href="profil.php" class="btn-get-started">Profil</a></li>
         <li><a href="#mentor" class="btn-get-started scrollto">Our Mentor</a></li>
       </ul>
       
@@ -29,9 +29,8 @@
         <p class="fst-italic">
             <b>Kebaktian Natal 2024 bagi kota Bandung</b>, akan kembali dilayani oleh hamba-Nya, Pdt. Stephen Tong.
         </p>            
-        <p> Acara ini gratis, terbuka untuk umum. Mari hadiri, ajak teman/saudara/kenalan untuk datang mendengar berita injil, berita natal.</p>
-        <a href="#lokasi" class="btn-custom scrollto">Lokasi & Titik Jemput</a>
-
+        <p> Acara ini gratis, terbuka untuk umum. Mari hadiri, ajak teman/saudara/kenalan untuk datang mendengar berita injil, berita natal.</p>        
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1771148956962312&tabs=Discussion&width=400&height=300&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1727933754626942" width="400" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
     </div>
 
@@ -67,13 +66,15 @@
     </div>
 
     <div class="row">
-        <div class="col-lg-7 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-right">
+        <div class="offset-lg-3 col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-right">
             <!-- iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d965.0965347471596!2d107.57921535545967!3d-6.917629549053815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1699982155520!5m2!1sen!2sid"  frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe-->
-            <img src="assets/img/denah.jpg" style="width:90%;">
+            <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7748657365473!2d107.5770186741586!3d-6.917497467703025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1730474769066!5m2!1sen!2sid" height="350" style="border:0; width:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+            <img src="assets/img/denah.jpg" style="width:90%; margin-bottom: 10px;">
             <!-- <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe> -->
+            <a href="https://maps.app.goo.gl/7mtQiRmT4uvYxpJQ6" class="btn-link" target="_blank">📌 Google Maps</a>
         </div>
 
-        <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+        <!-- <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
             <p>Tersedia <b>transportasi keberangkatan</b> bersama dari/ke Sudirman Grand Ballroom</p>
             <div>TITIK JEMPUT:</div>
             <ul>
@@ -83,7 +84,7 @@
                 <li><i class="bi bi-check-circle"></i> ITENAS Jl. Suci</li>
                 <li><i class="bi bi-check-circle"></i> Telkom University</li>
             </ul>
-        </div>
+        </div> -->
     </div>
     
   </div>
@@ -94,8 +95,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Hubungi Kami</span>
-          <!-- <h2>Hubungi Kami</h2> -->
+          <!-- <span>Hubungi Kami</span> -->
+          <h2>Hubungi Kami</h2>
           <br><br>
           <p class="text-center">untuk informasi lain, pertanyaan atau keberangkatan bersama</p>
         </div>

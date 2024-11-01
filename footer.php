@@ -37,7 +37,11 @@
         </div>
       </div>
     </div>
+     <!-- <a href='https://www.free-counters.org/'>www.free-counters.org</a>  -->
+     <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=bf99bd7ccf2d914948c5cf41efee1a391010e527'></script>
+     <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1256285/t/4"></script>
   </footer><!-- End Footer -->
+
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <div id="preloader"></div>
