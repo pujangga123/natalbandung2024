@@ -10,10 +10,9 @@
       </p> 
       <ul>
         <!-- <li><a href="https://www.youtube.com/watch?v=hwZKnCREW-Q" target="_blank" class="btn-get-started" style="background-color: #cc1616;">KLIP NATAL</a></li> -->
+        <li><a href="#event" class="btn-get-started scrollto">Natal Bandung 2024</a></li>
         <li><a href="profil.php" class="btn-get-started">Profil</a></li>
-        <li><a href="#mentor" class="btn-get-started scrollto">Our Mentor</a></li>
       </ul>
-      
     </div>
 </section>
 
@@ -38,10 +37,15 @@
 
 <section id="mentor" class="mentor">
     <div class="container">
+      <div class="text-center"><img src="assets/img/garis.png"></div>
+
+      <div class="section-title">
+        <!-- <span>Lokasi</span> -->
+        <h2>Our Mentor</h2>
+        <p class="text-center">Mari kita mengenal Pdt. Stephen Tong dalam seri <i>Our Mentor</i></p>
+      </div>
         <div class="row">
             <div class="col-lg-6 order-1 order-lg-1" data-aos="fade-left">
-            <p>Mari kita mengenal Pdt. Stephen Tong dalam seri <i>Our Mentor</i> . </p>
-
             <p>Beliau akan menyampaikan Firman di <strong>NATAL BANDUNG 2024</strong>, seorang pelayan Tuhan yang sungguh dipakai Tuhan.</p>
             <p>Seri <i>Our Mentor</i> ini mengangkat kisah pelayanan <a href="bio.html">Pdt. Stephen Tong</a> dari berbagai narasumber untuk membagikan insight, motivasi dan tantangan pelayanan sehingga dapat menjadi berkat bagi umat Tuhan saat ini.</p>
             <p>Di episode ini <b>Pdt. Ivan Kristiono</b> akan mengulas aspek pendidikan Kristen dan pelayanan anak yang telah dikerjakan oleh Pdt. Stephen Tong</p>
@@ -56,7 +60,7 @@
 <!-- ======= lokasi Section ======= -->
 <section id="lokasi" class="lokasi">
   <div class="container">
-
+    <div class="text-center"><img src="assets/img/garis.png"></div>
     <div class="section-title">
       <!-- <span>Lokasi</span> -->
       <h2>Lokasi</h2>
@@ -65,10 +69,10 @@
     </div>
 
     <div class="row">
-        <div class="offset-lg-3 col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-right">
+        <div class="offset-lg-3 col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-up">
             <!-- iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d965.0965347471596!2d107.57921535545967!3d-6.917629549053815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1699982155520!5m2!1sen!2sid"  frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe-->
             <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7748657365473!2d107.5770186741586!3d-6.917497467703025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1730474769066!5m2!1sen!2sid" height="350" style="border:0; width:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
-            <img src="assets/img/denah.jpg" style="width:90%; margin-bottom: 10px;">
+            <img src="assets/img/denah.jpg" style="width:100%; margin-bottom: 10px;">
             <!-- <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe> -->
             <a href="https://maps.app.goo.gl/7mtQiRmT4uvYxpJQ6" class="btn-link" target="_blank">📌 Google Maps</a>
         </div>
@@ -92,7 +96,7 @@
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
       <div class="container">
-
+        <div class="text-center"><img src="assets/img/garis.png"></div>
         <div class="section-title">
           <!-- <span>Hubungi Kami</span> -->
           <h2>Hubungi Kami</h2>
