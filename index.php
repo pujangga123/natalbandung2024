@@ -37,7 +37,7 @@
 
 <section id="mentor" class="mentor">
     <div class="container">
-      <div class="text-center"><img src="assets/img/garis.png"></div>
+      <div class="text-center"><img src="assets/img/garis.png" style="max-width:100%"></div>
 
       <div class="section-title">
         <!-- <span>Lokasi</span> -->
@@ -60,7 +60,7 @@
 <!-- ======= lokasi Section ======= -->
 <section id="lokasi" class="lokasi">
   <div class="container">
-    <div class="text-center"><img src="assets/img/garis.png"></div>
+    <div class="text-center"><img src="assets/img/garis.png" style="max-width:100%"></div>
     <div class="section-title">
       <!-- <span>Lokasi</span> -->
       <h2>Lokasi</h2>
@@ -96,7 +96,7 @@
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
       <div class="container">
-        <div class="text-center"><img src="assets/img/garis.png"></div>
+        <div class="text-center"><img src="assets/img/garis.png" style="max-width:100%"></div>
         <div class="section-title">
           <!-- <span>Hubungi Kami</span> -->
           <h2>Hubungi Kami</h2>
