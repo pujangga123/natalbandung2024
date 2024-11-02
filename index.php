@@ -2,7 +2,7 @@
 
 <section id="hero" class="hero d-flex align-items-center">    
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500" style="text-align: left; padding: 5px 5px">
-      < class="p1" >
+      <div class="p1" >
         <i style="color:yellow">Kedatangan Tuhan Yesus membawa kita mengerti Allah yang tidak mungkin kita mengerti,
         melihat Allah yang tidak mungkin kita lihat, 
         dan menikmati kemuliaan Allah yang tidak mungkin kita mengerti.</i><br>
