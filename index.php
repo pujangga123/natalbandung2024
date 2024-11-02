@@ -3,16 +3,17 @@
 <section id="hero" class="hero d-flex align-items-center">    
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500" style="text-align: left; padding: 5px 5px">
       <p class="p1" >
-        <strong>Pdt. Dr. Stephen Tong </strong>adalah pengajar Alkitab dan penginjil yang berpengaruh. Melalui khotbah-khotbahnya yang mendalam, dan memperdalam pemahaman akan ajaran Kristus. Dia aktif mengadakan konferensi dan seminar untuk memperkuat iman jemaat.
+        <i style="color:yellow">Kedatangan Tuhan Yesus membawa kita mengerti Allah yang tidak mungkin kita mengerti,
+        melihat Allah yang tidak mungkin kita lihat, 
+        dan menikmati kemuliaan Allah yang tidak mungkin kita mengerti.</i><br>
+        <br>
+        ~~ Pdt. Dr. Stephen Tong
       </p>
-      <P class="p2" >
+      <!--P class="p2" >
         Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi warga yang peduli di masyarakat.
-      </p> 
-      <ul>
-        <!-- <li><a href="https://www.youtube.com/watch?v=hwZKnCREW-Q" target="_blank" class="btn-get-started" style="background-color: #cc1616;">KLIP NATAL</a></li> -->
-        <li><a href="#event" class="btn-get-started scrollto">Natal Bandung 2024</a></li>
-        <li><a href="profil.php" class="btn-get-started">Profil</a></li>
-      </ul>
+      </p-->
+      <a href="#event" class="btn-get-started scrollto mb-2" style="width: 400px; font-size:22px">Natal Bandung 2024</a> <br>
+      <a href="profil.php" class="btn-get-started" style="width: 400px">Profil: Pdt. Dr. Stephen Tong</a>
     </div>
 </section>
 
