@@ -2,7 +2,7 @@
 
 <section id="hero" class="hero d-flex align-items-center">    
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500" style="text-align: left; padding: 5px 5px">
-      <p class="p1" >
+      < class="p1" >
         <i style="color:yellow">Kedatangan Tuhan Yesus membawa kita mengerti Allah yang tidak mungkin kita mengerti,
         melihat Allah yang tidak mungkin kita lihat, 
         dan menikmati kemuliaan Allah yang tidak mungkin kita mengerti.</i><br>
@@ -12,6 +12,7 @@
       <!--P class="p2" >
         Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi warga yang peduli di masyarakat.
       </p-->
+      <br>
       <a href="#event" class="btn-get-started scrollto mb-2" style="width: 330px; font-size:22px">Natal Bandung 2024</a> <br>
       <a href="profil.php" class="btn-get-started" style="width: 330px">Profil: Pdt. Dr. Stephen Tong</a>
     </div>
