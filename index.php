@@ -12,8 +12,8 @@
       <!--P class="p2" >
         Pelayanannya juga termasuk dalam misi penginjilan, mendorong orang-orang untuk menyebarkan pesan Injil, menginspirasi banyak orang untuk terlibat aktif dalam iman Kristen dan menjadi warga yang peduli di masyarakat.
       </p-->
-      <a href="#event" class="btn-get-started scrollto mb-2" style="width: 400px; font-size:22px">Natal Bandung 2024</a> <br>
-      <a href="profil.php" class="btn-get-started" style="width: 400px">Profil: Pdt. Dr. Stephen Tong</a>
+      <a href="#event" class="btn-get-started scrollto mb-2" style="width: 330px; font-size:22px">Natal Bandung 2024</a> <br>
+      <a href="profil.php" class="btn-get-started" style="width: 330px">Profil: Pdt. Dr. Stephen Tong</a>
     </div>
 </section>
 
