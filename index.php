@@ -78,7 +78,7 @@
     </div>
 
     <div class="row">
-        <div class="offset-lg-3 col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-up">
+        <div class="col-lg-7 pt-4 pt-lg-0 order-1 order-lg-1 content text-center" data-aos="fade-up">
             <!-- iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d965.0965347471596!2d107.57921535545967!3d-6.917629549053815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1699982155520!5m2!1sen!2sid"  frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe-->
             <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7748657365473!2d107.5770186741586!3d-6.917497467703025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e608cfa0c18d%3A0xbe7da28b948823b!2sSudirman%20Grand%20Ballroom!5e0!3m2!1sen!2sid!4v1730474769066!5m2!1sen!2sid" height="350" style="border:0; width:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
             <img src="assets/img/denah.jpg" style="width:100%; margin-bottom: 10px;">
@@ -86,17 +86,15 @@
             <a href="https://maps.app.goo.gl/7mtQiRmT4uvYxpJQ6" class="btn-link" target="_blank">📌 Google Maps</a>
         </div>
 
-        <!-- <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+        <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
             <p>Tersedia <b>transportasi keberangkatan</b> bersama dari/ke Sudirman Grand Ballroom</p>
             <div>TITIK JEMPUT:</div>
             <ul>
-                <li><i class="bi bi-check-circle"></i> UPI</li>
-                <li><i class="bi bi-check-circle"></i> ITB - Baltos</li>
-                <li><i class="bi bi-check-circle"></i> ITHB Jl. Dipati Ukur</li>
-                <li><i class="bi bi-check-circle"></i> ITENAS Jl. Suci</li>
-                <li><i class="bi bi-check-circle"></i> Telkom University</li>
+                <li>UPI - <a href="https://maps.app.goo.gl/aEYZJWZeQUXtAd8W9" target="_blank">[<i class="bi bi-pin-map-fill"></i> Maps]</a></li>
+                <li>ITB-Baltos - <a href="https://maps.app.goo.gl/kvBWKgg45Huv1rhr8" target="_blank">[<i class="bi bi-pin-map-fill"></i> Maps]</a></li>
             </ul>
-        </div> -->
+            <a href="https://forms.gle/uQJ2mVPXAmAWRCeNA" class="btn-link">Daftar Transportasi Keberangkatan</a>
+        </div>
     </div>
     
   </div>
