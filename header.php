@@ -69,7 +69,7 @@
               <li><a class="nav-link scrollto" href=".#event">Acara</a></li>
               <li><a class="nav-link scrollto" href="profil.php#profil">Profil</a></li>
               <li><a class="nav-link scrollto" href=".#mentor">Our Mentor</a></li>
-              <li><a class="nav-link scrollto" href=".#lokasi">Lokasi</a></li>          
+              <li><a class="nav-link scrollto" href=".#lokasi">Lokasi & Titik Jemput</a></li>          
               <li><a class="nav-link scrollto" href="#contact">Hubungi Kami</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
