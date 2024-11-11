@@ -26,7 +26,7 @@
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>Link terkait:</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Natal Bandung 20204</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Natal Bandung 2024</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://stemi.org/">STEMI</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://www.buletinpillar.org/">Buletin Pillar</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://pemuda.stemi.id/">PEMUDA STEMI</a></li>
