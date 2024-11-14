@@ -61,7 +61,7 @@
             <p>Di episode ini <b>Pdt. Ivan Kristiono</b> akan mengulas aspek pendidikan Kristen dan pelayanan anak yang telah dikerjakan oleh Pdt. Stephen Tong</p>
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
-            <iframe height="315" src="https://www.youtube.com/embed/qW3plWOtGNk?si=vGJKlrxlFiXErEbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>
+            <iframe height="315" src="https://www.youtube.com/embed/e9TVcsgwbbE?si=9L1oiIUkLuMarEDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>
             </div>
         </div>
     </div>
