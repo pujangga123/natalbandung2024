@@ -66,14 +66,19 @@
             </div>
         </div>
         <div class="row">
-            <div class="offset-1 col-lg-5 pt-4 pt-lg-0 order-1 order-lg-1 content" data-aos="fade-left">
-              <iframe height="315" src="https://www.youtube.com/embed/nuvySIbLcek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>
-            </div>
-            <div class="col-lg-5 order-2 order-lg-2" data-aos="fade-right">
+            <div class="col-lg-5 order-3 order-lg-1" data-aos="fade-left">
               <br><br>
               <p>Episode <i>Our Mentor</i> oleh <b>Pdt. Billy Kristanto</b> yang mengulas berbagai hal yang dikerjakan
               Pdt. Stephen Tong terkait mandat budaya.</p>
             </div>
+            <div class="col-lg-3 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+              <iframe height="315" src="https://www.youtube.com/embed/nuvySIbLcek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>            
+            </div>
+            <div class="col-lg-3 pt-4 pt-lg-0 order-3 order-lg-3 content" data-aos="fade-right">
+              <iframe height="315" src="https://www.youtube.com/embed/icoQE1DD9A4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>            
+            </div>
+            
+            
             
         </div>
     </div>
