@@ -52,17 +52,29 @@
       <div class="section-title">
         <!-- <span>Lokasi</span> -->
         <h2>Our Mentor</h2>
-        <p class="text-center">Mari kita mengenal Pdt. Stephen Tong dalam seri <i>Our Mentor</i></p>
+        <p class="text-center">Mari kita mengenal Pdt. Stephen Tong dalam seri <i>Our Mentor</i>.<br>
+        Beliau akan menyampaikan Firman di <strong>NATAL BANDUNG 2024</strong>,<br>
+        seorang pelayan Tuhan yang sungguh dipakai Tuhan.</p>
       </div>
         <div class="row">
-            <div class="col-lg-6 order-1 order-lg-1" data-aos="fade-left">
-            <p>Beliau akan menyampaikan Firman di <strong>NATAL BANDUNG 2024</strong>, seorang pelayan Tuhan yang sungguh dipakai Tuhan.</p>
-            <p>Seri <i>Our Mentor</i> ini mengangkat kisah pelayanan <a href="bio.html">Pdt. Stephen Tong</a> dari berbagai narasumber untuk membagikan insight, motivasi dan tantangan pelayanan sehingga dapat menjadi berkat bagi umat Tuhan saat ini.</p>
-            <p>Di episode ini <b>Pdt. Ivan Kristiono</b> akan mengulas aspek pendidikan Kristen dan pelayanan anak yang telah dikerjakan oleh Pdt. Stephen Tong</p>
+            <div class="offset-1 col-lg-5 order-1 order-lg-1" data-aos="fade-left">
+              <p>Seri <i>Our Mentor</i> ini mengangkat kisah pelayanan <a href="bio.html">Pdt. Stephen Tong</a> dari berbagai narasumber untuk membagikan insight, motivasi dan tantangan pelayanan sehingga dapat menjadi berkat bagi umat Tuhan saat ini.</p>
+              <p>Di episode ini <b>Pdt. Ivan Kristiono</b> akan mengulas aspek pendidikan Kristen dan pelayanan anak yang telah dikerjakan oleh Pdt. Stephen Tong</p>
             </div>
-            <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
-            <iframe height="315" src="https://www.youtube.com/embed/e9TVcsgwbbE?si=9L1oiIUkLuMarEDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>
+            <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+              <iframe height="315" src="https://www.youtube.com/embed/e9TVcsgwbbE?si=9L1oiIUkLuMarEDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>
             </div>
+        </div>
+        <div class="row">
+            <div class="offset-1 col-lg-5 pt-4 pt-lg-0 order-1 order-lg-1 content" data-aos="fade-left">
+              <iframe height="315" src="https://www.youtube.com/embed/nuvySIbLcek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width:100%"></iframe>
+            </div>
+            <div class="col-lg-5 order-2 order-lg-2" data-aos="fade-right">
+              <br><br>
+              <p>Episode <i>Our Mentor</i> oleh <b>Pdt. Billy Kristanto</b> yang mengulas berbagai hal yang dikerjakan
+              Pdt. Stephen Tong terkait mandat budaya.</p>
+            </div>
+            
         </div>
     </div>
 </section>
