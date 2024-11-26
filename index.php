@@ -24,7 +24,8 @@
 
     <div class="row">
         <div class="col-lg-6 order-1 order-lg-1" data-aos="fade-left">
-            <img src="assets/img/natal2024-profile-500.jpg" class="img-fluid">
+            <!--img src="assets/img/natal2024-profile-500.jpg" class="img-fluid"-->
+            <iframe height="315" src="https://www.youtube.com/embed/gVz6oBYYQq4?si=1yOZCvcvWsh7Ohvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%"></iframe>            
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
           <p class="fst-italic">
